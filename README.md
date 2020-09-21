@@ -29,4 +29,4 @@ FACEBOOK;
 https://www.facebook.com/coronavirus_info/
 
 YOUTUBE;
-https://www.youtube.com/channel/UCKwsmbZY8s2NRGb4Ogv7WNQpython3 fatalemail.py
+https://www.youtube.com/channel/UCKwsmbZY8s2NRGb4Ogv7WNQ
