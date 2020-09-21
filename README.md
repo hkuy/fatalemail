@@ -1,7 +1,9 @@
 Instalacion de MODULOS
 ------------------------
 pip install colorama
+
 pip install requests
+
 pip install pyfiglet
 
 ----------------------
