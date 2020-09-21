@@ -30,6 +30,7 @@ print(Fore.CYAN+'\nEnviando Correo')
 print('\n')
 print(Back.BLACK+Style.BRIGHT+'\n✔️Correo Enviado✔️\n\n')
 
+print(Back.BLACK+Style.BRIGHT+'YOUTUBE : https://www.youtube.com/channel/UCKwsmbZY8s2NRGb4Ogv7WNQ')
 print(Back.BLACK+Style.BRIGHT+'FB: https://www.facebook.com/hackinguruguay')
 print(Back.BLACK+Style.BRIGHT+'Script creado por : FATAL ERROR ')
 
