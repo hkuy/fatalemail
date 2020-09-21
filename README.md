@@ -1,10 +1,10 @@
 Instalacion de MODULOS
 ------------------------
-pip install colorama
+pip3 install colorama
 
-pip install requests
+pip3 install requests
 
-pip install pyfiglet
+pip3 install pyfiglet
 
 ----------------------
 Descargar script:
