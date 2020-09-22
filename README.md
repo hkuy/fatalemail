@@ -26,7 +26,7 @@ Si no es GMAIL pueden omitan esta nota.
 
 ------------------------------------------------
 FACEBOOK;
-https://www.facebook.com/coronavirus_info/
+https://www.facebook.com/hackinguruguay/
 
 YOUTUBE;
 https://www.youtube.com/channel/UCKwsmbZY8s2NRGb4Ogv7WNQ
